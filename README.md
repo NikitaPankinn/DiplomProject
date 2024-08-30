@@ -30,7 +30,7 @@
 	  ELSE 0 END AS status 
           FROM "Orders";
 
-# 5. Автоматизация теста.
+# Автоматизация теста.
 
 Для запуска теста необходимо в файл configuration скопировить URLстенда
 https://ef748b45-8c9f-4625-acd1-1a9dbe7a1a9f.serverhub.praktikum-services.ru
