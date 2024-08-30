@@ -34,4 +34,3 @@
 
 Для запуска теста необходимо в файл configuration скопировить URLстенда
 https://ef748b45-8c9f-4625-acd1-1a9dbe7a1a9f.serverhub.praktikum-services.ru
-В файле sender_stand_request.ру нажать кнопку Run
