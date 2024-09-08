@@ -1,6 +1,6 @@
 # Никита Панькин, 20-я когорта — Финальный проект.
 
-order_body = {
+order_data = {
         "firstName": "Naruto",
         "lastName": "Uchiha",
         "address": "Konoha, 142 apt.",
